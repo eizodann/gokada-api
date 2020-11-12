@@ -1,0 +1,25 @@
+{
+  "name": "gokada-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eizodann/gokada-api.git"
+  },
+  "author": "Nnadozie Ezeani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eizodann/gokada-api/issues"
+  },
+  "homepage": "https://github.com/eizodann/gokada-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },"devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
